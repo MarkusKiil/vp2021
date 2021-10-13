@@ -1,0 +1,2 @@
+NULL,"Näitleja","Vananenud termin aktöör. Loovisik, kes esineb teatris, kaamera või mikrofoni ees. Näitleja võib esineda teatrietendustes, filmides, telesaadetes, raadiosaadetes või mujal. Naissoost näitlejat võib nimetada ka näitlejannaks või näitlejatariks, kuid elukutse ja ametinimetus on siiski näitleja.",
+NULL,"Režissöör","Filmi, tele- või raadiosaate tegemise loominguline, kunstiline juht. Filmirežissööri nimetatakse teatri eeskujul ka filmi lavastajaks, kes stsenaariumi põhjal kujundab näitlejate ja võttemeeskonna töö.",

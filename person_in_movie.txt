@@ -1,0 +1,4 @@
+NULL,1,1,1,"John",
+NULL,1,6,1,"Abel",
+NULL,1,7,1,"Pukspuu",
+NULL,2,6,2,NULL,
